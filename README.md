@@ -1,7 +1,7 @@
-# DIO - Trilha Java Básico
+# Trilha Java Básico
 Projeto: ContaBanco
 
-Esse projeto foi desenvolvido como parte da trilha de Java Básico da DIO. 
+Esse projeto foi desenvolvido como parte da trilha de Java Básico da DIO (www.dio.me)
 O objetivo era praticar os conhecimentos sobre a estrutura básica da linguagem Java, trabalhando com variáveis, entrada de dados pelo terminal e exibição de mensagens personalizadas.
 Criei um programa que simula a abertura de uma conta bancária, onde o usuário informa seus dados diretamente pelo terminal, como número da conta,
 agência e nome completo. Depois disso, o sistema exibe uma mensagem de boas-vindas com essas informações e o saldo inicial já disponível.
