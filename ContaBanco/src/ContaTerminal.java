@@ -24,7 +24,7 @@ public class ContaTerminal {
             if (scanner.hasNextInt()) {
                 numeroConta = scanner.nextInt();
                 scanner.nextLine(); // Limpa o buffer
-               
+            
             } else {
                 System.out.println("Nessa etapa só são aceitos números.");
                 scanner.close();
